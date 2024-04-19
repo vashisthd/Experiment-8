@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: cursive;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.form_box{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+#submit{
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
